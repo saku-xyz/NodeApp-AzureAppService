@@ -1,0 +1,14 @@
+{
+  "name": "my-azure-node-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for Azure App Service Free Tier",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Sakuntha Hewapathirana",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
